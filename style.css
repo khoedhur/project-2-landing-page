@@ -20,13 +20,13 @@ body {
 }
 
 .top .links {
-  gap: 8px;
+  display: flex;
 }
 
 ul {
   list-style-type: none;
   display: flex;
-  gap: 8px;
+  gap: 24px;
 }
 
 a {
@@ -37,21 +37,29 @@ a {
 .hero {
   display: flex;
   align-items: center;
-  justify-content: space-around;
-}
-
-.hero-left {
-  display: inline-block;
+  justify-content: space-evenly;
 }
 
 .hero .main-text {
   font-size: 48px;
   font-weight: bolder;
   color: #f9faf8;
+
 }
 
 .hero .secondary-text {
   font-size: 18px;
+  color: #e5e7eb;
+}
+
+.hero-button {
+  background-color: #3882f6;
+  color: 
+  border-radius: 25px;
+}
+
+.image {
+  background-color: grey;
   color: #e5e7eb;
 }
 
@@ -66,4 +74,31 @@ a {
   height: 52px;
   background-color: #1f2937;
   color: #e5e7eb;
+}
+
+.random-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.random-image {
+  border-style: solid;
+  border-color: #3882f6;
+}
+
+.inspiring-quote {
+  background-color: #e5e7eb;
+}
+
+.cta-container {
+  background-color: ;
 }
