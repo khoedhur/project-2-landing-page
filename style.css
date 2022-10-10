@@ -93,7 +93,8 @@ a {
 .random-image {
   border-style: solid;
   border-color: #3882f6;
-  
+  height: 100px;
+  width: 100px;
 }
 
 .inspiring-quote {
