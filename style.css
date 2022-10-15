@@ -5,6 +5,10 @@ body {
 
 .header {
   background-color: #1f2937;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-direction: column;
 }
 
 .top {
@@ -17,10 +21,6 @@ body {
   font-size: 24px;
   color: #f9faf8;
   font-weight: bold;
-}
-
-.top .links {
-  display: flex;
 }
 
 ul {
@@ -37,20 +37,27 @@ a {
 .hero {
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
-  padding: 150px 375px;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 100px 335px;
+  gap: 8px;
+}
+
+.hero-left {
+  height: 220px;
+  width: 400px;
 }
 
 .hero .main-text {
   font-size: 48px;
   font-weight: bolder;
   color: #f9faf8;
-
 }
 
-.hero .secondary-text {
+#secondary {
   font-size: 18px;
   color: #e5e7eb;
+  width: 450px;
 }
 
 .hero-button {
@@ -63,10 +70,6 @@ a {
   margin-top: 8px;
   height: 35px;
   width: 115px;
-}
-
-.hero-left {
-  flex-wrap: wrap;
 }
 
 .image {
@@ -93,8 +96,17 @@ a {
 .random-image {
   border-style: solid;
   border-color: #3882f6;
-  height: 100px;
-  width: 100px;
+  height: 150px;
+  width: 150px;
+  border-radius: 8px;
+  margin: 0 8px;
+}
+
+.random-info .text {
+  height: 150px;
+  width: 170px;
+  text-align: center;
+  padding-top: 8px;
 }
 
 .inspiring-quote {
