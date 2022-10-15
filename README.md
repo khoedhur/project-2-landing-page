@@ -27,7 +27,7 @@ This project showcases the following skills:
     * Border, Padding, and Margin formatting
 * Flexbox formatting
     * justify-content
-    * align-content/align-items
+    * align-items
     * flex-flow
 
 ## Challenges
