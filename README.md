@@ -7,7 +7,9 @@ This is the second project for the course offered by [The Odin Project](https://
 
 This project's goal is to create a landing page using HTML and CSS using tools like Flexbox.
 
-This project was created on a 15.6" display using 1920x1080.
+The project main point is to create a web page from scratch and purposely includes concepts outside the scope of the course to help developers practice their researching skills.
+
+This project was created on a 15.6" display using 1920x1080 and does not scale properly on different resolutions or display sizes.
 
 ## Skills Demonstrated
 
@@ -34,4 +36,3 @@ This project showcases the following skills:
 * Formatting the CSS on different screen resolutions
     * CSS will change format on different resolutions/screen sizes with current code
     * How to let CSS auto adjust to different resolutions
-
