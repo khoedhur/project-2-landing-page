@@ -24,7 +24,7 @@ This project showcases the following skills:
     * IDs
     * Descendants
 * CSS
-    * Using Class,ID, and Descendant selectors
+    * Using Class, ID, and Descendant selectors
     * Height and Width formatting
     * Border, Padding, and Margin formatting
 * Flexbox formatting
