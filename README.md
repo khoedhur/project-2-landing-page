@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the second project for the course offered by [The Odin Project](https://www.theodinproject.com/).
+This is the second project for the course offered by [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page).
 
 This project's goal is to create a landing page using HTML and CSS using tools like Flexbox.
 
