@@ -1,5 +1,4 @@
 # The Odin Project: Landing Page
-Project 2 of the Odin Project curriculum
 
 ## Overview
 
