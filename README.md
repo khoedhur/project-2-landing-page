@@ -1,4 +1,4 @@
-# The Odin Project: Landing Page
+# The Odin Project 2: Landing Page
 
 ## Overview
 
